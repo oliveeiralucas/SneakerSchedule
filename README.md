@@ -112,9 +112,9 @@ Distribuído sob a Licença MIT. Consulte LICENSE.txt para mais informações.
 <!-- CONTATO -->
 ## Contato
 
-Lucas Waidman de Oliveira - lucas.oliveira@edu.unifil.br
-Davi Giovanni - lucas.rezende@edu.unifil.br
-Lucas Rezende - davi.giovanni@edu.unifil.br
+ - Lucas Waidman de Oliveira - lucas.oliveira@edu.unifil.br
+ - Davi Giovnni - davigiovani@edu.unifil.br
+ - Lucas Rezende - lucas.rezende@edu.unifil.br
 
 <p align="right">(<a href="#readme-top">Voltar ao Topo</a>)</p>
 
