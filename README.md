@@ -45,6 +45,8 @@ Nosso aplicativo é focado na comunidade de sneakerheads e entusiastas de moda. 
 
 ### Protótipo
 
+[![Protótipo][https://github.com/oliveeiralucas/SneakerSchedule/blob/main/SneakerSchedule-Prototype.pdf]]
+
 
 <p align="right">(<a href="#readme-top">Voltar ao Topo</a>)</p>
 
